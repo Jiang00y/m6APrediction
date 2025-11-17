@@ -120,8 +120,6 @@ These plots illustrate the discriminative ability of the classifier on the m6A p
 
 *Precision–Recall (PR) curve showing how precision changes as recall increases when the decision threshold is varied.*
 
-> Make sure the image files (e.g. `roc_curve.jpg` and `prc_curve.jpg`) are saved in the same directory as this `README.md` in your GitHub repository, or update the paths above to match your filenames.
-
 ---
 
 ## License
